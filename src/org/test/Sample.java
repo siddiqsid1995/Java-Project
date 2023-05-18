@@ -8,6 +8,10 @@ public class Sample {
 
 		System.out.println(age);
 
+		String s = "chennai";
+
+		System.out.println(s.charAt(3));
+
 	}
 
 }
