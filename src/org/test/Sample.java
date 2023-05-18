@@ -12,6 +12,10 @@ public class Sample {
 		
 		System.out.println("something");
 
+		String s = "chennai";
+
+		System.out.println(s.charAt(3));
+
 	}
 
 }
