@@ -7,6 +7,10 @@ public class Sample {
 		int age = 10;
 
 		System.out.println(age);
+		
+		System.out.println("chennai");
+		
+		System.out.println("something");
 
 		String s = "chennai";
 
